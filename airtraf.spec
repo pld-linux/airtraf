@@ -1,5 +1,5 @@
 Summary:	AirTraf 802.11 - Wireless traffic sniffer
-Summary(pl.UTF-8):   AirTraf 802.11 - program podsłuchujący sieci bezprzewodowe
+Summary(pl.UTF-8):	AirTraf 802.11 - program podsłuchujący sieci bezprzewodowe
 Name:		airtraf
 Version:	1.1
 Release:	2
