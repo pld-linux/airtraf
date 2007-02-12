@@ -1,5 +1,5 @@
 Summary:	AirTraf 802.11 - Wireless traffic sniffer
-Summary(pl):	AirTraf 802.11 - program pods³uchuj±cy sieci bezprzewodowe
+Summary(pl.UTF-8):   AirTraf 802.11 - program podsÅ‚uchujÄ…cy sieci bezprzewodowe
 Name:		airtraf
 Version:	1.1
 Release:	2
@@ -17,9 +17,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 AirTraf is a wireless sniffer that can detect and determine exactly
 what is being transmitted over 802.11 wireless networks.
 
-%description -l pl
-AirTraf to sniffer (wêszyciel) sieci bezprzewodowych potrafi±cy wykryæ
-i ustaliæ co jest aktualnie przesy³ane przez sieæ bezprzewodow±.
+%description -l pl.UTF-8
+AirTraf to sniffer (wÄ™szyciel) sieci bezprzewodowych potrafiÄ…cy wykryÄ‡
+i ustaliÄ‡ co jest aktualnie przesyÅ‚ane przez sieÄ‡ bezprzewodowÄ….
 
 %prep
 %setup -q
